@@ -1,0 +1,96 @@
+.titulo_paginas {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: rgb(252, 52, 52);
+}
+.titulo_random{
+    text-align: center;
+    padding-top: 50px;
+}
+.imagemwelcome {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.finalcompleto {
+    background-color: rgb(252, 52, 52);
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+}
+.bodymotas {
+    text-align: center;
+}
+
+.boxmotasdetalhesgeral {
+    justify-content: space-around;
+}
+.boxmotaindividualgeral {
+    padding-top: 20px;
+}
+.nomemotasdetalhes {
+    padding-top: 20px;
+}
+.motapreco {
+    color: red;
+}
+.voltarmmotas {
+    padding: 10px;
+}
+.contactos {
+    color: white;
+}
+.textonaoimportante {
+    color: white
+}
+.redessocias {
+    color: white
+}
+.instagram {
+    color: white
+}
+.box {
+    display: flex;
+    justify-content: space-around;
+    background-color: #dde2e7;
+    padding: 10px;
+
+}
+
+.boxmotasgeral{
+    display: flex;overflow-x:scroll;  padding: 10px;box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(0, 0, 0),0.3em 1em 2em rgb(0, 0, 0);
+}
+.boxmotaindividual{
+    padding-right: 20px;
+}
+.experiencia{
+    padding-top: 20px
+}
+.bodymotas{
+    text-align: center;
+}
+
+.melhoramentocontainer{
+    padding-top:50px;
+}
+.criarmota{
+    display: flex; justify-content:center;
+}
+.criarmarca{
+    display: flex; justify-content:center;
+}
+.voltar{
+    display: flex; justify-content: center; padding-top:10px;
+}
+.contactosModelos{
+    display: flex;
+    justify-content: center;
+}
+
+.contactosModelos2{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
